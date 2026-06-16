@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/VehicleSimulator.CLI/VehicleSimulator.CLI.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/VehicleSimulator.Test/VehicleSimulator.Test.csproj" />
+  </Folder>
+</Solution>
